@@ -74,8 +74,8 @@ export const PROJECTS = [
     title: "React PortFolio Website",
     imgSrc: project1,
     description: "A personal Portfolio website built using ReactJs.",
-    GitHub: "#",
-    link: "",
+    GitHub: "https://github.com/SaikatMandal7672/ReactPortfolio",
+    link: "https://saikat-mandal.vercel.app/",
 
 
   },
