@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { SpeedInsights } from '@vercel/speed-insights/react';
 import Intro from './components/Intro'
 import Nav from './components/Nav'
