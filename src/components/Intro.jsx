@@ -35,6 +35,7 @@ const Intro = () => {
                 delay: .3,
                 ease: "power3.inOut",
             }).from(".s1", {
+                delay:.2,
                 opacity: 0,
                 y: 80,
                 stagger: .02,
