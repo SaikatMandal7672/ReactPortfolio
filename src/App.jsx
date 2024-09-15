@@ -1,4 +1,5 @@
 import React from 'react'
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Intro from './components/Intro'
 import Nav from './components/Nav'
 import Hero from './components/Hero'
@@ -22,7 +23,7 @@ const App = () => {
         <Work/>
         <Contact/>
       </main>
-
+      <SpeedInsights />
     </>
   )
 }
