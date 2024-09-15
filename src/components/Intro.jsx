@@ -9,7 +9,7 @@ const Intro = () => {
     const title3 = "INTERACTION/DESIGN"
     const title4 = "BACKEND / FRONTEND /DEV"
     const title5 = "CREATIVE/WEBDEV"
-    const title6 = "WEBF/LOW"
+    const title6 = "WEB/LOW"
 
     const title2 = "MOTION/DESIGN"
     const welcome = "WELCOME."
