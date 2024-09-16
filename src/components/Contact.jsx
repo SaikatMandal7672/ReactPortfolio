@@ -26,7 +26,7 @@ const Contact = () => {
                 start: "top 80%",
                 end: 'top 26%',
                 scrub: true,
-                markers: true,
+                markers: false,
 
             },
             ease: "power2.inOut",
