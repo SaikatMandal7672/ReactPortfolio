@@ -24,9 +24,9 @@ const Contact = () => {
             scrollTrigger: {
                 trigger: contactRef.current,
                 start: "top 80%",
-                end: 'top 15%',
+                end: 'top 26%',
                 scrub: true,
-                markers: false,
+                markers: true,
 
             },
             ease: "power2.inOut",
