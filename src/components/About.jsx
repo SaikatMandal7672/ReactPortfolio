@@ -39,7 +39,7 @@ const About = () => {
   }, [])
   return (
     <section id='about'>
-      <h2 className="my-10  text-4xl lg:text-8xl "> About Me</h2>
+      <h2 className="my-10 text-center text-4xl lg:text-8xl "> About Me</h2>
       <div className="flex items-center justify-center">
         <p className="m-8 max-w-6xl text-2xl text-center lg:text-5xl text-gray-300" ref={abtRef}>{ABOUT}</p>
       </div>
